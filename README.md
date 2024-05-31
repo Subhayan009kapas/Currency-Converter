@@ -1,2 +1,2 @@
-# Rock-Paper-Scissor-
-It's a Game Developed  with  Java Script
+# Currency Converter
+ Developed  with  Java Script
