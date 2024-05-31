@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-
-Game Developed  with  Java Script
+It's a Game Developed  with  Java Script
